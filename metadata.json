@@ -1,0 +1,6 @@
+{
+  "name": "Simulador Linux Interativo",
+  "description": "Simulador de computador Linux completo no navegador para aprendizado de comandos, administração de sistemas e segurança cibernética com gamificação, missões, conquistas e personalização.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
